@@ -4,4 +4,4 @@
 
 - Written in Python
 - Classic game Snake
-- You know snake, right?
+- You know Snake, right?
